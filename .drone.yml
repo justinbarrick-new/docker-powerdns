@@ -12,5 +12,5 @@ steps:
     username: justinbarrick
     password:
       from_secret: docker_password
-    repo: justinbarrick/external-dns
+    repo: justinbarrick/powerdns
     tags: latest
